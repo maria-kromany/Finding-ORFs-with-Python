@@ -1,3 +1,4 @@
+
 This project identifies Open Reading Frames (ORFs) in DNA sequences, which are potential gene regions that can code for proteins. ORFs start with "ATG" (start codon) and end with a stop codon (such as "TAA," "TAG," or "TGA"). By locating these segments, we can study gene functions and better understand DNA sequences.
 
 The key tasks include:
